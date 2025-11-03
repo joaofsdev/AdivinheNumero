@@ -19,12 +19,6 @@ section {
     flex-direction: column;
 }
 
-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 footer {
     color: white;
     text-align: center;

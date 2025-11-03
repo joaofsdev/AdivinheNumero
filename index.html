@@ -13,7 +13,9 @@
     <section>
         <div>
             Digite um Numero de 1 a 100: <input type="number" id="numeroTentativa" min="1" max="100"/>
+            <p>Tentativas: <span id="contadorTentativas">0</span> de 5</p>
             <button id="btnAdivinhar" onclick="Adivinhar()">Adivinhar</button>
+            <button id="btnRecomecar" onclick="Recomecar()" hidden>Recomecar</button>
         </div>
         <div>
             <p id="resultado"></p>
