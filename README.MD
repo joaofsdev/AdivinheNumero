@@ -88,7 +88,7 @@ Este projeto me ajudou a entender melhor:
 
 ## 👨‍💻 Autor
 
-**João Francisco**
+Desenvolvido por **João Francisco**, estudante de engenharia de software.
 
 ---
 
